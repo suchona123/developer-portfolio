@@ -93,6 +93,7 @@ main{
 }
 .about-info-container{
     display: flex;
+    justify-content: space-around;
 }
 .about .info-title{
     font-size: 20px;
